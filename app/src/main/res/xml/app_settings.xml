@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:key="username"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:summary="Please enter username"
+        android:title="Enter username" />
+    <SwitchPreference
+        android:defaultValue="false"
+        android:title="Switch preference"
+        android:key="switch_preference_1" />
+    <ListPreference
+        android:defaultValue="1"
+        android:entries="@array/statesArray"
+        android:entryValues="@array/statesValues"
+        android:key="country"
+        android:summary="Please choose your country"
+        android:title="Your location" />
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="Enough"
+        android:summary="I hope its enough for pass"
+        android:title="ok?" />
+
+</PreferenceScreen>

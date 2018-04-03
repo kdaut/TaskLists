@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TaskList</string>
+    <string name="delete_button">Delete</string>
+    <string name="exit_button">Exit</string>
+    <string name="add_task">Add new task</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="exiting">Are you sure you wish to exit?</string>
+    <string name="dialog">Exit dialog</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="toast">To add a new task click on + in right top corner</string>
+</resources>

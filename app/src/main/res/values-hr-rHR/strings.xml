@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListaZadataka</string>
+    <string name="delete_button">Briši</string>
+    <string name="exit_button">Izlaz</string>
+    <string name="add_task">Dodaj novi zadatak</string>
+    <string name="add">Dodaj</string>
+    <string name="cancel">Izlaz</string>
+    <string name="toast">Da biste dodali novi zadatak pritisnite na znak u gornjem desnom kutu</string>
+    <string name="exiting">Jeste li sigurni da želite izaći?</string>
+    <string name="dialog">Izlaz</string>
+    <string name="Yes">Da</string>
+    <string name="No">Ne</string>
+</resources>
